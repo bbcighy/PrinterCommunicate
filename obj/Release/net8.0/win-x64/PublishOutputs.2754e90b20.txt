@@ -1,0 +1,4 @@
+C:\ScannerProxyService\appsettings.Development.json
+C:\ScannerProxyService\appsettings.json
+C:\ScannerProxyService\PrinterCommunicate.pdb
+C:\ScannerProxyService\PrinterCommunicate.exe
